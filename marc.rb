@@ -1,2 +1,2 @@
 puts "Hello Moon"
-put "a"
+puts "a"
